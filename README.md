@@ -1,11 +1,8 @@
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
-
-<hr>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+<p align="center">7 Coins: o seu banco digital!</p>
 
-## Assuntos abordados durante o curso
+## Áreas de conhecimento incluidas no nosso site
 * Fetch API
 * Threads
 * Concorrência
